@@ -1,6 +1,8 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 # exclude everything except directory foo/bar
 ProjectX/README.md
+/ProjectX/README.md
+README.md
     /*
     !/config
     /config/*
