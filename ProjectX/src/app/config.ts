@@ -5,7 +5,6 @@ export const GlobalVariable = Object.freeze({
     // FILE_UPLOAD_URL: 'http://10.10.73.9:4201/upload',
     // IMAGE_UPLOAD_URL: 'http://10.10.73.9:4201/uploadImage',
     // NOTIFICATION_URL:'http://10.10.73.9:4201',
-//
 
 
 
