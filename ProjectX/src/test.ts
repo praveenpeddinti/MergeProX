@@ -1,5 +1,4 @@
 import './polyfills.ts';
-
 import 'zone.js/dist/long-stack-trace-zone';
 import 'zone.js/dist/proxy.js';
 import 'zone.js/dist/sync-test';
@@ -28,5 +27,5 @@ getTestBed().initTestEnvironment(
 const context = require.context('./', true, /\.spec\.ts$/);
 // And load the modules.
 context.keys().map(context);
-// Finally, start Karma to run the tests.
+// ddFinally, start Karma to run the tests.
 __karma__.start();
