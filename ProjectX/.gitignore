@@ -1,13 +1,7 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 # exclude everything except directory foo/bar
-index.html
-/src/index.html
-ProjectX/README.md
-/ProjectX/README.md
-README.md
-    /*
-    !/config
-    /config/*
+**/src/index.html
+**/src/app/config.ts
 # compiled output
 /dist
 /tmp
